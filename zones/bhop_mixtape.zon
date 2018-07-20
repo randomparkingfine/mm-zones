@@ -1,0 +1,35 @@
+"bhop_mixtape"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"100.000000"
+		"ypos"		"-100.000000"
+		"zpos"		"124.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-92.000000"
+		"yScaleMins"		"-116.000000"
+		"zScaleMins"		"-124.000000"
+		"xScaleMaxs"		"92.000000"
+		"yScaleMaxs"		"116.000000"
+		"zScaleMaxs"		"124.000000"
+	}
+	"end"
+	{
+		"xpos"		"-2312.000000"
+		"ypos"		"-4644.000000"
+		"zpos"		"-352.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-240.000000"
+		"yScaleMins"		"-68.000000"
+		"zScaleMins"		"-112.000000"
+		"xScaleMaxs"		"240.000000"
+		"yScaleMaxs"		"68.000000"
+		"zScaleMaxs"		"112.000000"
+	}
+}

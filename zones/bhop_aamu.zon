@@ -1,0 +1,35 @@
+"bhop_aamu"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"0.000000"
+		"ypos"		"0.000000"
+		"zpos"		"104.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-192.000000"
+		"yScaleMins"		"-96.000000"
+		"zScaleMins"		"-104.000000"
+		"xScaleMaxs"		"192.000000"
+		"yScaleMaxs"		"96.000000"
+		"zScaleMaxs"		"104.000000"
+	}
+	"end"
+	{
+		"xpos"		"4512.000000"
+		"ypos"		"1872.000000"
+		"zpos"		"1868.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-96.000000"
+		"yScaleMins"		"-144.000000"
+		"zScaleMins"		"-76.000000"
+		"xScaleMaxs"		"96.000000"
+		"yScaleMaxs"		"144.000000"
+		"zScaleMaxs"		"76.000000"
+	}
+}

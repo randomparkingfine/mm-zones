@@ -1,0 +1,35 @@
+"bhop_pcshit"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-200.000000"
+		"ypos"		"15280.000000"
+		"zpos"		"-160.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-304.000000"
+		"yScaleMins"		"-104.000000"
+		"zScaleMins"		"-80.000000"
+		"xScaleMaxs"		"304.000000"
+		"yScaleMaxs"		"104.000000"
+		"zScaleMaxs"		"80.000000"
+	}
+	"end"
+	{
+		"xpos"		"8000.000000"
+		"ypos"		"-12096.000000"
+		"zpos"		"-752.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-208.000000"
+		"yScaleMins"		"-336.000000"
+		"zScaleMins"		"-112.000000"
+		"xScaleMaxs"		"208.000000"
+		"yScaleMaxs"		"336.000000"
+		"zScaleMaxs"		"112.000000"
+	}
+}

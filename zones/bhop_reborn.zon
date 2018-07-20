@@ -1,0 +1,35 @@
+"bhop_reborn"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-3292.000000"
+		"ypos"		"-10232.000000"
+		"zpos"		"140.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-268.000000"
+		"yScaleMins"		"-184.000000"
+		"zScaleMins"		"-76.000000"
+		"xScaleMaxs"		"268.000000"
+		"yScaleMaxs"		"184.000000"
+		"zScaleMaxs"		"76.000000"
+	}
+	"end"
+	{
+		"xpos"		"260.000000"
+		"ypos"		"-10668.000000"
+		"zpos"		"-504.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-316.000000"
+		"yScaleMins"		"-252.000000"
+		"zScaleMins"		"-80.000000"
+		"xScaleMaxs"		"316.000000"
+		"yScaleMaxs"		"252.000000"
+		"zScaleMaxs"		"80.000000"
+	}
+}

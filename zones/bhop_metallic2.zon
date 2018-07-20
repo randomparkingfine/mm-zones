@@ -1,0 +1,35 @@
+"bhop_metallic2"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"0"
+		"xpos"		"512.000000"
+		"ypos"		"372.000000"
+		"zpos"		"156.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-512.000000"
+		"yScaleMins"		"-108.000000"
+		"zScaleMins"		"-124.000000"
+		"xScaleMaxs"		"512.000000"
+		"yScaleMaxs"		"108.000000"
+		"zScaleMaxs"		"124.000000"
+	}
+	"end"
+	{
+		"xpos"		"-3704.000000"
+		"ypos"		"-952.000000"
+		"zpos"		"-1912.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-344.000000"
+		"yScaleMins"		"-1000.000000"
+		"zScaleMins"		"-328.000000"
+		"xScaleMaxs"		"344.000000"
+		"yScaleMaxs"		"1000.000000"
+		"zScaleMaxs"		"328.000000"
+	}
+}

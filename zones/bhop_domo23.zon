@@ -1,0 +1,35 @@
+"bhop_domo23"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-6656.000000"
+		"ypos"		"2560.000000"
+		"zpos"		"128.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-128.000000"
+		"yScaleMins"		"-128.000000"
+		"zScaleMins"		"-64.000000"
+		"xScaleMaxs"		"128.000000"
+		"yScaleMaxs"		"128.000000"
+		"zScaleMaxs"		"64.000000"
+	}
+	"end"
+	{
+		"xpos"		"-1536.000000"
+		"ypos"		"1536.000000"
+		"zpos"		"172.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-128.000000"
+		"yScaleMins"		"-128.000000"
+		"zScaleMins"		"-108.000000"
+		"xScaleMaxs"		"128.000000"
+		"yScaleMaxs"		"128.000000"
+		"zScaleMaxs"		"108.000000"
+	}
+}

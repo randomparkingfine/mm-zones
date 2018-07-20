@@ -1,0 +1,35 @@
+"bhop_spaceship"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"512.000000"
+		"ypos"		"-160.000000"
+		"zpos"		"320.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-224.000000"
+		"yScaleMins"		"-160.000000"
+		"zScaleMins"		"-96.000000"
+		"xScaleMaxs"		"224.000000"
+		"yScaleMaxs"		"160.000000"
+		"zScaleMaxs"		"96.000000"
+	}
+	"end"
+	{
+		"xpos"		"-2736.000000"
+		"ypos"		"2880.000000"
+		"zpos"		"-2916.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-368.000000"
+		"yScaleMins"		"-672.000000"
+		"zScaleMins"		"-188.000000"
+		"xScaleMaxs"		"368.000000"
+		"yScaleMaxs"		"672.000000"
+		"zScaleMaxs"		"188.000000"
+	}
+}

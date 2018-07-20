@@ -1,0 +1,35 @@
+"bhop_coast"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-11496.000000"
+		"ypos"		"-7148.000000"
+		"zpos"		"6568.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-216.000000"
+		"yScaleMins"		"-140.000000"
+		"zScaleMins"		"-104.000000"
+		"xScaleMaxs"		"216.000000"
+		"yScaleMaxs"		"140.000000"
+		"zScaleMaxs"		"104.000000"
+	}
+	"end"
+	{
+		"xpos"		"-7160.000000"
+		"ypos"		"4704.000000"
+		"zpos"		"7300.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-128.000000"
+		"yScaleMins"		"-224.000000"
+		"zScaleMins"		"-100.000000"
+		"xScaleMaxs"		"128.000000"
+		"yScaleMaxs"		"224.000000"
+		"zScaleMaxs"		"100.000000"
+	}
+}

@@ -1,0 +1,35 @@
+"bhop_dementia_kz"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"5436.000000"
+		"ypos"		"-3224.000000"
+		"zpos"		"-3768.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-140.000000"
+		"yScaleMins"		"-64.000000"
+		"zScaleMins"		"-72.000000"
+		"xScaleMaxs"		"140.000000"
+		"yScaleMaxs"		"64.000000"
+		"zScaleMaxs"		"72.000000"
+	}
+	"end"
+	{
+		"xpos"		"580.000000"
+		"ypos"		"-3940.000000"
+		"zpos"		"-3052.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-52.000000"
+		"yScaleMins"		"-44.000000"
+		"zScaleMins"		"-60.000000"
+		"xScaleMaxs"		"52.000000"
+		"yScaleMaxs"		"44.000000"
+		"zScaleMaxs"		"60.000000"
+	}
+}

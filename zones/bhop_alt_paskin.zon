@@ -1,0 +1,35 @@
+"bhop_alt_paskin"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-768.000000"
+		"ypos"		"768.000000"
+		"zpos"		"184.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-128.000000"
+		"yScaleMins"		"-128.000000"
+		"zScaleMins"		"-88.000000"
+		"xScaleMaxs"		"128.000000"
+		"yScaleMaxs"		"128.000000"
+		"zScaleMaxs"		"88.000000"
+	}
+	"end"
+	{
+		"xpos"		"-1280.000000"
+		"ypos"		"768.000000"
+		"zpos"		"192.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-128.000000"
+		"yScaleMins"		"-128.000000"
+		"zScaleMins"		"-96.000000"
+		"xScaleMaxs"		"128.000000"
+		"yScaleMaxs"		"128.000000"
+		"zScaleMaxs"		"96.000000"
+	}
+}

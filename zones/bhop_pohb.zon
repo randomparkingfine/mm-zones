@@ -1,0 +1,35 @@
+"bhop_pohb"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-160.000000"
+		"ypos"		"748.000000"
+		"zpos"		"1240.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-544.000000"
+		"yScaleMins"		"-108.000000"
+		"zScaleMins"		"-88.000000"
+		"xScaleMaxs"		"544.000000"
+		"yScaleMaxs"		"108.000000"
+		"zScaleMaxs"		"88.000000"
+	}
+	"end"
+	{
+		"xpos"		"-176.000000"
+		"ypos"		"-1648.000000"
+		"zpos"		"1700.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-560.000000"
+		"yScaleMins"		"-560.000000"
+		"zScaleMins"		"-164.000000"
+		"xScaleMaxs"		"560.000000"
+		"yScaleMaxs"		"560.000000"
+		"zScaleMaxs"		"164.000000"
+	}
+}

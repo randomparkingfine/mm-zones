@@ -1,0 +1,35 @@
+"bhop_pharaoh"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-9256.000000"
+		"ypos"		"-1360.000000"
+		"zpos"		"-552.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-72.000000"
+		"yScaleMins"		"-80.000000"
+		"zScaleMins"		"-88.000000"
+		"xScaleMaxs"		"72.000000"
+		"yScaleMaxs"		"80.000000"
+		"zScaleMaxs"		"88.000000"
+	}
+	"end"
+	{
+		"xpos"		"-6944.000000"
+		"ypos"		"-3840.000000"
+		"zpos"		"-5360.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-112.000000"
+		"yScaleMins"		"-80.000000"
+		"zScaleMins"		"-80.000000"
+		"xScaleMaxs"		"112.000000"
+		"yScaleMaxs"		"80.000000"
+		"zScaleMaxs"		"80.000000"
+	}
+}

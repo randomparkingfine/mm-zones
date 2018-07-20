@@ -1,0 +1,35 @@
+"bhop_coma_x"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-1500.000000"
+		"ypos"		"-1504.000000"
+		"zpos"		"288.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-508.000000"
+		"yScaleMins"		"-512.000000"
+		"zScaleMins"		"-160.000000"
+		"xScaleMaxs"		"508.000000"
+		"yScaleMaxs"		"512.000000"
+		"zScaleMaxs"		"160.000000"
+	}
+	"end"
+	{
+		"xpos"		"-1504.000000"
+		"ypos"		"-212.000000"
+		"zpos"		"268.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-512.000000"
+		"yScaleMins"		"-684.000000"
+		"zScaleMins"		"-140.000000"
+		"xScaleMaxs"		"512.000000"
+		"yScaleMaxs"		"684.000000"
+		"zScaleMaxs"		"140.000000"
+	}
+}

@@ -1,0 +1,35 @@
+"bhop_helvete"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"10.000000"
+		"ypos"		"-330.000000"
+		"zpos"		"202.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-126.000000"
+		"yScaleMins"		"-64.000000"
+		"zScaleMins"		"-74.000000"
+		"xScaleMaxs"		"126.000000"
+		"yScaleMaxs"		"64.000000"
+		"zScaleMaxs"		"74.000000"
+	}
+	"end"
+	{
+		"xpos"		"1343.000000"
+		"ypos"		"1010.500000"
+		"zpos"		"907.500000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-64.000000"
+		"yScaleMins"		"-126.500000"
+		"zScaleMins"		"-62.500000"
+		"xScaleMaxs"		"64.000000"
+		"yScaleMaxs"		"126.500000"
+		"zScaleMaxs"		"62.500000"
+	}
+}

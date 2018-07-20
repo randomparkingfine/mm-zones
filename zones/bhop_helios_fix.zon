@@ -1,0 +1,35 @@
+"bhop_helios_fix"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"0.000000"
+		"ypos"		"192.000000"
+		"zpos"		"164.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-208.000000"
+		"yScaleMins"		"-64.000000"
+		"zScaleMins"		"-100.000000"
+		"xScaleMaxs"		"208.000000"
+		"yScaleMaxs"		"64.000000"
+		"zScaleMaxs"		"100.000000"
+	}
+	"end"
+	{
+		"xpos"		"4928.000000"
+		"ypos"		"-7824.000000"
+		"zpos"		"-724.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-960.000000"
+		"yScaleMins"		"-352.000000"
+		"zScaleMins"		"-540.000000"
+		"xScaleMaxs"		"960.000000"
+		"yScaleMaxs"		"352.000000"
+		"zScaleMaxs"		"540.000000"
+	}
+}

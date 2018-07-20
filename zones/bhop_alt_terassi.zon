@@ -1,0 +1,35 @@
+"bhop_alt_terassi"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"0.000000"
+		"ypos"		"96.000000"
+		"zpos"		"408.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-128.000000"
+		"yScaleMins"		"-96.000000"
+		"zScaleMins"		"-88.000000"
+		"xScaleMaxs"		"128.000000"
+		"yScaleMaxs"		"96.000000"
+		"zScaleMaxs"		"88.000000"
+	}
+	"end"
+	{
+		"xpos"		"1904.000000"
+		"ypos"		"-8704.000000"
+		"zpos"		"640.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-176.000000"
+		"yScaleMins"		"-384.000000"
+		"zScaleMins"		"-192.000000"
+		"xScaleMaxs"		"176.000000"
+		"yScaleMaxs"		"384.000000"
+		"zScaleMaxs"		"192.000000"
+	}
+}

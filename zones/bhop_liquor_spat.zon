@@ -1,0 +1,35 @@
+"bhop_liquor_spat"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"32.000000"
+		"ypos"		"0.000000"
+		"zpos"		"236.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-96.000000"
+		"yScaleMins"		"-384.000000"
+		"zScaleMins"		"-92.000000"
+		"xScaleMaxs"		"96.000000"
+		"yScaleMaxs"		"384.000000"
+		"zScaleMaxs"		"92.000000"
+	}
+	"end"
+	{
+		"xpos"		"32.000000"
+		"ypos"		"1120.000000"
+		"zpos"		"328.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-224.000000"
+		"yScaleMins"		"-224.000000"
+		"zScaleMins"		"-168.000000"
+		"xScaleMaxs"		"224.000000"
+		"yScaleMaxs"		"224.000000"
+		"zScaleMaxs"		"168.000000"
+	}
+}

@@ -1,0 +1,35 @@
+"bhop_alt_vaahtera"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-252.000000"
+		"ypos"		"-252.000000"
+		"zpos"		"324.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-124.000000"
+		"yScaleMins"		"-124.000000"
+		"zScaleMins"		"-100.000000"
+		"xScaleMaxs"		"124.000000"
+		"yScaleMaxs"		"124.000000"
+		"zScaleMaxs"		"100.000000"
+	}
+	"end"
+	{
+		"xpos"		"-4048.000000"
+		"ypos"		"-5328.000000"
+		"zpos"		"404.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-176.000000"
+		"yScaleMins"		"-176.000000"
+		"zScaleMins"		"-116.000000"
+		"xScaleMaxs"		"176.000000"
+		"yScaleMaxs"		"176.000000"
+		"zScaleMaxs"		"116.000000"
+	}
+}

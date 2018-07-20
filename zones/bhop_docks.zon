@@ -1,0 +1,35 @@
+"bhop_docks"
+{
+	"end"
+	{
+		"xpos"		"-2148.000000"
+		"ypos"		"-544.000000"
+		"zpos"		"1488.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-652.000000"
+		"yScaleMins"		"-888.000000"
+		"zScaleMins"		"-104.000000"
+		"xScaleMaxs"		"652.000000"
+		"yScaleMaxs"		"888.000000"
+		"zScaleMaxs"		"104.000000"
+	}
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-5636.000000"
+		"ypos"		"-3912.000000"
+		"zpos"		"1068.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-268.000000"
+		"yScaleMins"		"-64.000000"
+		"zScaleMins"		"-76.000000"
+		"xScaleMaxs"		"268.000000"
+		"yScaleMaxs"		"64.000000"
+		"zScaleMaxs"		"76.000000"
+	}
+}

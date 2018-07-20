@@ -1,0 +1,35 @@
+"autobhop_spacebar_warrior"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"936.000000"
+		"ypos"		"-4664.000000"
+		"zpos"		"896.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-88.000000"
+		"yScaleMins"		"-360.000000"
+		"zScaleMins"		"-80.000000"
+		"xScaleMaxs"		"88.000000"
+		"yScaleMaxs"		"360.000000"
+		"zScaleMaxs"		"80.000000"
+	}
+	"end"
+	{
+		"xpos"		"100.000000"
+		"ypos"		"-4928.000000"
+		"zpos"		"1040.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-276.000000"
+		"yScaleMins"		"-96.000000"
+		"zScaleMins"		"-64.000000"
+		"xScaleMaxs"		"276.000000"
+		"yScaleMaxs"		"96.000000"
+		"zScaleMaxs"		"64.000000"
+	}
+}

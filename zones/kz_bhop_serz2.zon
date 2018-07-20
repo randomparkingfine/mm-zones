@@ -1,0 +1,35 @@
+"kz_bhop_serz2"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-4868.000000"
+		"ypos"		"-5532.000000"
+		"zpos"		"704.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-100.000000"
+		"yScaleMins"		"-244.000000"
+		"zScaleMins"		"-80.000000"
+		"xScaleMaxs"		"100.000000"
+		"yScaleMaxs"		"244.000000"
+		"zScaleMaxs"		"80.000000"
+	}
+	"end"
+	{
+		"xpos"		"3832.000000"
+		"ypos"		"3452.000000"
+		"zpos"		"1172.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-48.000000"
+		"yScaleMins"		"-52.000000"
+		"zScaleMins"		"-84.000000"
+		"xScaleMaxs"		"48.000000"
+		"yScaleMaxs"		"52.000000"
+		"zScaleMaxs"		"84.000000"
+	}
+}
