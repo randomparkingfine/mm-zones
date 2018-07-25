@@ -8,6 +8,12 @@ Start zones are fixed so the exit speed is set to `290.0` velocity.
 
 Find your `steamapps/common/Momentum Mod/momentum/maps` and drop the _contents_ of this repo's `/maps` folder in there to update any previous maps and get whatever new maps you may need.
 
+To do that just click on the download button(_the one with the cloud icon_) then just grab everything inside this maps folder and drop it directly into yours.
+
+## Content/Map Types
+
+Right now most of the zone files are just for Bhop and KZ.
+
 ## Contriubuting
 
 If you have any zones you'd like publicly available you have a few options:
