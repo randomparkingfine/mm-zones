@@ -10,20 +10,5 @@ Find your `steamapps/common/Momentum Mod/momentum/maps` and drop the _contents_ 
 
 To do that just click on the download button(_the one with the cloud icon_) then just grab everything inside this maps folder and drop it directly into yours.
 
-## Content/Map Types
-
-Right now most of the zone files are just for Bhop and KZ.
-
-## Contriubuting
-
-If you have any zones you'd like publicly available you have a few options:
-
-- Message me on discord: (¬¦\_¦) shockrah#2647 
-- Email me: alerah@protonmail.com
-- DM me on steam
-- Sumbit a pull request
-
-Just know that zones should adhere to you're respective community's standards, whatever they might be
-
 :\^)
 
