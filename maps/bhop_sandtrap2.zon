@@ -1,0 +1,35 @@
+"bhop_sandtrap2"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-896.000000"
+		"ypos"		"-4400.000000"
+		"zpos"		"10256.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-768.000000"
+		"yScaleMins"		"-336.000000"
+		"zScaleMins"		"-144.000000"
+		"xScaleMaxs"		"768.000000"
+		"yScaleMaxs"		"336.000000"
+		"zScaleMaxs"		"144.000000"
+	}
+	"end"
+	{
+		"xpos"		"3568.000000"
+		"ypos"		"736.000000"
+		"zpos"		"-13940.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-1616.000000"
+		"yScaleMins"		"-1152.000000"
+		"zScaleMins"		"-396.000000"
+		"xScaleMaxs"		"1616.000000"
+		"yScaleMaxs"		"1152.000000"
+		"zScaleMaxs"		"396.000000"
+	}
+}
