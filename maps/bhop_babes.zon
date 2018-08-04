@@ -1,0 +1,35 @@
+"bhop_babes"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"696.000000"
+		"ypos"		"-128.000000"
+		"zpos"		"88.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-56.000000"
+		"yScaleMins"		"-384.000000"
+		"zScaleMins"		"-88.000000"
+		"xScaleMaxs"		"56.000000"
+		"yScaleMaxs"		"384.000000"
+		"zScaleMaxs"		"88.000000"
+	}
+	"end"
+	{
+		"xpos"		"-560.000000"
+		"ypos"		"-184.000000"
+		"zpos"		"80.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-464.000000"
+		"yScaleMins"		"-56.000000"
+		"zScaleMins"		"-80.000000"
+		"xScaleMaxs"		"464.000000"
+		"yScaleMaxs"		"56.000000"
+		"zScaleMaxs"		"80.000000"
+	}
+}

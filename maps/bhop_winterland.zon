@@ -1,0 +1,35 @@
+"bhop_winterland"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"864.000000"
+		"ypos"		"-5424.000000"
+		"zpos"		"172.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-512.000000"
+		"yScaleMins"		"-240.000000"
+		"zScaleMins"		"-76.000000"
+		"xScaleMaxs"		"512.000000"
+		"yScaleMaxs"		"240.000000"
+		"zScaleMaxs"		"76.000000"
+	}
+	"end"
+	{
+		"xpos"		"-3120.000000"
+		"ypos"		"-4104.000000"
+		"zpos"		"-4396.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-656.000000"
+		"yScaleMins"		"-536.000000"
+		"zScaleMins"		"-1044.000000"
+		"xScaleMaxs"		"656.000000"
+		"yScaleMaxs"		"536.000000"
+		"zScaleMaxs"		"1044.000000"
+	}
+}
