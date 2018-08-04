@@ -12,6 +12,6 @@ Then just drop the maps folder from the tag zip file into your `steamapps/common
 
 ## Contribute?!?!?!?
 
-Check the contributing page for info on that.
+Check the [contributing guide](https://gitlab.com/shockrahwow/mm-zones/blob/master/CONTRIBUTING.md) for info on that.
 :\^)
 
