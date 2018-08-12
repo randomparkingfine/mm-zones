@@ -1,0 +1,35 @@
+"bhop_land_x1"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-3688.000000"
+		"ypos"		"-3632.000000"
+		"zpos"		"124.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-104.000000"
+		"yScaleMins"		"-128.000000"
+		"zScaleMins"		"-60.000000"
+		"xScaleMaxs"		"104.000000"
+		"yScaleMaxs"		"128.000000"
+		"zScaleMaxs"		"60.000000"
+	}
+	"end"
+	{
+		"xpos"		"-3584.000000"
+		"ypos"		"-2824.000000"
+		"zpos"		"452.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-256.000000"
+		"yScaleMins"		"-104.000000"
+		"zScaleMins"		"-68.000000"
+		"xScaleMaxs"		"256.000000"
+		"yScaleMaxs"		"104.000000"
+		"zScaleMaxs"		"68.000000"
+	}
+}
