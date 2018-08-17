@@ -1,0 +1,35 @@
+"bhop_halle"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"384.000000"
+		"ypos"		"440.000000"
+		"zpos"		"-13.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-72.000000"
+		"yScaleMins"		"-96.000000"
+		"zScaleMins"		"-65.000000"
+		"xScaleMaxs"		"72.000000"
+		"yScaleMaxs"		"96.000000"
+		"zScaleMaxs"		"65.000000"
+	}
+	"end"
+	{
+		"xpos"		"944.000000"
+		"ypos"		"-1063.500000"
+		"zpos"		"138.500000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-107.000000"
+		"yScaleMins"		"-108.500000"
+		"zScaleMins"		"-60.500000"
+		"xScaleMaxs"		"107.000000"
+		"yScaleMaxs"		"108.500000"
+		"zScaleMaxs"		"60.500000"
+	}
+}

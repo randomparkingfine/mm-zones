@@ -1,0 +1,35 @@
+"bhop_wacer"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"392.000000"
+		"ypos"		"260.000000"
+		"zpos"		"132.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-120.000000"
+		"yScaleMins"		"-252.000000"
+		"zScaleMins"		"-68.000000"
+		"xScaleMaxs"		"120.000000"
+		"yScaleMaxs"		"252.000000"
+		"zScaleMaxs"		"68.000000"
+	}
+	"end"
+	{
+		"xpos"		"484.000000"
+		"ypos"		"832.000000"
+		"zpos"		"132.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-96.000000"
+		"yScaleMins"		"-256.000000"
+		"zScaleMins"		"-68.000000"
+		"xScaleMaxs"		"96.000000"
+		"yScaleMaxs"		"256.000000"
+		"zScaleMaxs"		"68.000000"
+	}
+}

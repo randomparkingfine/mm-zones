@@ -1,0 +1,35 @@
+"bhop_kyntoperkele"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-544.000000"
+		"ypos"		"544.000000"
+		"zpos"		"28.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-96.000000"
+		"yScaleMins"		"-96.000000"
+		"zScaleMins"		"-76.000000"
+		"xScaleMaxs"		"96.000000"
+		"yScaleMaxs"		"96.000000"
+		"zScaleMaxs"		"76.000000"
+	}
+	"end"
+	{
+		"xpos"		"5856.000000"
+		"ypos"		"10720.000000"
+		"zpos"		"-124.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-96.000000"
+		"yScaleMins"		"-96.000000"
+		"zScaleMins"		"-68.000000"
+		"xScaleMaxs"		"96.000000"
+		"yScaleMaxs"		"96.000000"
+		"zScaleMaxs"		"68.000000"
+	}
+}
