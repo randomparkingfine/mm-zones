@@ -1,0 +1,35 @@
+"surf_beyer2"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"6528.000000"
+		"ypos"		"15840.000000"
+		"zpos"		"15904.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-640.000000"
+		"yScaleMins"		"-256.000000"
+		"zScaleMins"		"-96.000000"
+		"xScaleMaxs"		"640.000000"
+		"yScaleMaxs"		"256.000000"
+		"zScaleMaxs"		"96.000000"
+	}
+	"end"
+	{
+		"xpos"		"-640.000000"
+		"ypos"		"1408.000000"
+		"zpos"		"13888.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-1280.000000"
+		"yScaleMins"		"-640.000000"
+		"zScaleMins"		"-288.000000"
+		"xScaleMaxs"		"1280.000000"
+		"yScaleMaxs"		"640.000000"
+		"zScaleMaxs"		"288.000000"
+	}
+}

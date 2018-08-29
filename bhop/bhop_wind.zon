@@ -1,0 +1,35 @@
+"bhop_wind"
+{
+	"end"
+	{
+		"xpos"		"2560.000000"
+		"ypos"		"-2544.000000"
+		"zpos"		"60.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-224.000000"
+		"yScaleMins"		"-80.000000"
+		"zScaleMins"		"-60.000000"
+		"xScaleMaxs"		"224.000000"
+		"yScaleMaxs"		"80.000000"
+		"zScaleMaxs"		"60.000000"
+	}
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"0.000000"
+		"ypos"		"-200.000000"
+		"zpos"		"92.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-256.000000"
+		"yScaleMins"		"-8.000000"
+		"zScaleMins"		"-76.000000"
+		"xScaleMaxs"		"256.000000"
+		"yScaleMaxs"		"8.000000"
+		"zScaleMaxs"		"76.000000"
+	}
+}

@@ -1,0 +1,35 @@
+"surf_pox"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"2688.000000"
+		"ypos"		"4212.000000"
+		"zpos"		"1252.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-256.000000"
+		"yScaleMins"		"-268.000000"
+		"zScaleMins"		"-84.000000"
+		"xScaleMaxs"		"256.000000"
+		"yScaleMaxs"		"268.000000"
+		"zScaleMaxs"		"84.000000"
+	}
+	"end"
+	{
+		"xpos"		"-1612.000000"
+		"ypos"		"-4948.000000"
+		"zpos"		"-11308.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-612.000000"
+		"yScaleMins"		"-636.000000"
+		"zScaleMins"		"-3412.000000"
+		"xScaleMaxs"		"612.000000"
+		"yScaleMaxs"		"636.000000"
+		"zScaleMaxs"		"3412.000000"
+	}
+}

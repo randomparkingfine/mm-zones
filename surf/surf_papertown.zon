@@ -1,0 +1,35 @@
+"surf_papertown"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-12288.000000"
+		"ypos"		"-256.000000"
+		"zpos"		"96.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-192.000000"
+		"yScaleMins"		"-512.000000"
+		"zScaleMins"		"-96.000000"
+		"xScaleMaxs"		"192.000000"
+		"yScaleMaxs"		"512.000000"
+		"zScaleMaxs"		"96.000000"
+	}
+	"end"
+	{
+		"xpos"		"11724.000000"
+		"ypos"		"5896.000000"
+		"zpos"		"-5928.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-1564.000000"
+		"yScaleMins"		"-1608.000000"
+		"zScaleMins"		"-328.000000"
+		"xScaleMaxs"		"1564.000000"
+		"yScaleMaxs"		"1608.000000"
+		"zScaleMaxs"		"328.000000"
+	}
+}

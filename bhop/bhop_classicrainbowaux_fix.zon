@@ -1,0 +1,35 @@
+"bhop_classicrainbowaux_fix"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"160.000000"
+		"ypos"		"0.000000"
+		"zpos"		"60.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-112.000000"
+		"yScaleMins"		"-208.000000"
+		"zScaleMins"		"-60.000000"
+		"xScaleMaxs"		"112.000000"
+		"yScaleMaxs"		"208.000000"
+		"zScaleMaxs"		"60.000000"
+	}
+	"end"
+	{
+		"xpos"		"6204.000000"
+		"ypos"		"-14376.000000"
+		"zpos"		"1060.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-108.000000"
+		"yScaleMins"		"-184.000000"
+		"zScaleMins"		"-84.000000"
+		"xScaleMaxs"		"108.000000"
+		"yScaleMaxs"		"184.000000"
+		"zScaleMaxs"		"84.000000"
+	}
+}

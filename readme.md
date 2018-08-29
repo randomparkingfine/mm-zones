@@ -18,3 +18,4 @@ Check the [contributing guide](https://gitlab.com/shockrahwow/mm-zones/blob/mast
 I've also provided a zoning config file here which should make it easier to zone maps and get back to playing. It should leave movement binds alone so you can do everything like normal. 
 
 
+

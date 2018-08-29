@@ -1,0 +1,35 @@
+"surf_pancake"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-3764.000000"
+		"ypos"		"6752.000000"
+		"zpos"		"4456.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-204.000000"
+		"yScaleMins"		"-672.000000"
+		"zScaleMins"		"-104.000000"
+		"xScaleMaxs"		"204.000000"
+		"yScaleMaxs"		"672.000000"
+		"zScaleMaxs"		"104.000000"
+	}
+	"end"
+	{
+		"xpos"		"13456.000000"
+		"ypos"		"6752.000000"
+		"zpos"		"-9880.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-240.000000"
+		"yScaleMins"		"-856.000000"
+		"zScaleMins"		"-496.000000"
+		"xScaleMaxs"		"240.000000"
+		"yScaleMaxs"		"856.000000"
+		"zScaleMaxs"		"496.000000"
+	}
+}
