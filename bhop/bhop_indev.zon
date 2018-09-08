@@ -1,0 +1,35 @@
+"bhop_indev"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"0.000000"
+		"ypos"		"0.000000"
+		"zpos"		"156.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-256.000000"
+		"yScaleMins"		"-256.000000"
+		"zScaleMins"		"-92.000000"
+		"xScaleMaxs"		"256.000000"
+		"yScaleMaxs"		"256.000000"
+		"zScaleMaxs"		"92.000000"
+	}
+	"end"
+	{
+		"xpos"		"11328.000000"
+		"ypos"		"-1856.000000"
+		"zpos"		"-3168.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-704.000000"
+		"yScaleMins"		"-640.000000"
+		"zScaleMins"		"-480.000000"
+		"xScaleMaxs"		"704.000000"
+		"yScaleMaxs"		"640.000000"
+		"zScaleMaxs"		"480.000000"
+	}
+}
