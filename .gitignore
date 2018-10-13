@@ -1,5 +1,4 @@
 *~
 purge.bat
-maps/*.vmf
-maps/*bsp
-maps/zfix.py
+*.vmf
+*bsp
