@@ -1,5 +1,5 @@
 *~
 purge.bat
-maps/credits.vmf
+maps/*.vmf
+maps/*bsp
 maps/zfix.py
-maps/credits.bsp
