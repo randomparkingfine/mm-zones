@@ -1,0 +1,35 @@
+"bhop_cubefield_remastered"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-10208.000000"
+		"ypos"		"-11872.000000"
+		"zpos"		"148.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-288.000000"
+		"yScaleMins"		"-288.000000"
+		"zScaleMins"		"-84.000000"
+		"xScaleMaxs"		"288.000000"
+		"yScaleMaxs"		"288.000000"
+		"zScaleMaxs"		"84.000000"
+	}
+	"end"
+	{
+		"xpos"		"-5048.000000"
+		"ypos"		"-5216.000000"
+		"zpos"		"8.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-176.000000"
+		"yScaleMins"		"-312.000000"
+		"zScaleMins"		"-272.000000"
+		"xScaleMaxs"		"176.000000"
+		"yScaleMaxs"		"312.000000"
+		"zScaleMaxs"		"272.000000"
+	}
+}
