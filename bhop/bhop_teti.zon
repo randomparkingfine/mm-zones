@@ -1,0 +1,35 @@
+"bhop_teti"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-9120.000000"
+		"ypos"		"6368.000000"
+		"zpos"		"1384.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-96.000000"
+		"yScaleMins"		"-160.000000"
+		"zScaleMins"		"-104.000000"
+		"xScaleMaxs"		"96.000000"
+		"yScaleMaxs"		"160.000000"
+		"zScaleMaxs"		"104.000000"
+	}
+	"end"
+	{
+		"xpos"		"-5472.000000"
+		"ypos"		"7648.000000"
+		"zpos"		"-340.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-96.000000"
+		"yScaleMins"		"-160.000000"
+		"zScaleMins"		"-108.000000"
+		"xScaleMaxs"		"96.000000"
+		"yScaleMaxs"		"160.000000"
+		"zScaleMaxs"		"108.000000"
+	}
+}

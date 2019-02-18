@@ -1,0 +1,35 @@
+"bhop_conquest2"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"256.000000"
+		"ypos"		"256.000000"
+		"zpos"		"92.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-256.000000"
+		"yScaleMins"		"-256.000000"
+		"zScaleMins"		"-92.000000"
+		"xScaleMaxs"		"256.000000"
+		"yScaleMaxs"		"256.000000"
+		"zScaleMaxs"		"92.000000"
+	}
+	"end"
+	{
+		"xpos"		"12736.000000"
+		"ypos"		"6016.000000"
+		"zpos"		"-1768.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-1088.000000"
+		"yScaleMins"		"-384.000000"
+		"zScaleMins"		"-184.000000"
+		"xScaleMaxs"		"1088.000000"
+		"yScaleMaxs"		"384.000000"
+		"zScaleMaxs"		"184.000000"
+	}
+}
