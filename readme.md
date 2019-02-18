@@ -1,16 +1,16 @@
 # Momentum-Mod Zones
 
-For now all zones are found in the zones folder. 
+__Note__: Start zones are fixed so the exit speed is set to `290.0` velocity.
 
-Start zones are fixed so the exit speed is set to `290.0` velocity.
+## Installing
 
-## [Installing](https://gitlab.com/shockrahwow/mm-zones/tags)
+I've split surf and bhop maps but just take the `.zon` files from which ever (_or both_) and drop them in:
 
-To make things easy check the [Tags page](https://gitlab.com/shockrahwow/mm-zones/tags) for the nightly set of zone files.
+```
+\Path\To\SteamLibrary\steamapps\common\Momentum Mod\momentum\maps
+```
 
-Then just drop the maps folder from the tag zip file into your `steamapps/common/Momentum Mod/momentum/maps` folder. 
-
-## [Contribute?!?!?!?](https://gitlab.com/shockrahwow/mm-zones/blob/master/CONTRIBUTING.md)
+## [How do I contribute?](https://gitlab.com/shockrahwow/mm-zones/blob/master/CONTRIBUTING.md)
 
 Check the [contributing guide](https://gitlab.com/shockrahwow/mm-zones/blob/master/CONTRIBUTING.md) for info on that.
 :\^)
