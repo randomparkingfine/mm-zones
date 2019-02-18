@@ -16,10 +16,14 @@ That being said there are thousands of maps and without theory-jerking here are 
 * Teleports from one area to another
 
 * Labeled stages. 
+
 	Tons of maps are """linear""" in the surf but also in that there are no real teleports from one stage to another like `bhop_fps_max_sr`.
+
 	Maps like this also have a stage number written on the ground so I try to setup the stage boundary in such a way that it's basically impossible to _not_ hit the stage trigger.
 
 * Art changes
+
 	If there's a room color change or _drastic_ art style change from one room to another.
+
 	These are more picky to judge because my only caveat with this is there has to be some kind of really obvious door or somthing seperating the two rooms.
 
