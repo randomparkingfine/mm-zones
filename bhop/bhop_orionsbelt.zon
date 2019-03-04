@@ -1,0 +1,35 @@
+"bhop_orionsbelt"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-768.000000"
+		"ypos"		"-352.000000"
+		"zpos"		"96.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-64.000000"
+		"yScaleMins"		"-64.000000"
+		"zScaleMins"		"-64.000000"
+		"xScaleMaxs"		"64.000000"
+		"yScaleMaxs"		"64.000000"
+		"zScaleMaxs"		"64.000000"
+	}
+	"end"
+	{
+		"xpos"		"8135.000000"
+		"ypos"		"1023.000000"
+		"zpos"		"-265.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-95.000000"
+		"yScaleMins"		"-191.000000"
+		"zScaleMins"		"-71.000000"
+		"xScaleMaxs"		"95.000000"
+		"yScaleMaxs"		"191.000000"
+		"zScaleMaxs"		"71.000000"
+	}
+}

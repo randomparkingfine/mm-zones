@@ -1,0 +1,35 @@
+"bhop_yuka"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"6779.000000"
+		"ypos"		"-3669.000000"
+		"zpos"		"1123.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-155.000000"
+		"yScaleMins"		"-107.000000"
+		"zScaleMins"		"-59.000000"
+		"xScaleMaxs"		"155.000000"
+		"yScaleMaxs"		"107.000000"
+		"zScaleMaxs"		"59.000000"
+	}
+	"end"
+	{
+		"xpos"		"5763.000000"
+		"ypos"		"-3911.000000"
+		"zpos"		"1125.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-175.000000"
+		"yScaleMins"		"-113.000000"
+		"zScaleMins"		"-81.000000"
+		"xScaleMaxs"		"175.000000"
+		"yScaleMaxs"		"113.000000"
+		"zScaleMaxs"		"81.000000"
+	}
+}

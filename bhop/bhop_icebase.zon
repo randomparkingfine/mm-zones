@@ -1,0 +1,35 @@
+"bhop_icebase"
+{
+	"start"
+	{
+		"bhopleavespeed"		"290.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-7968.000000"
+		"ypos"		"-6336.000000"
+		"zpos"		"36.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-160.000000"
+		"yScaleMins"		"-176.000000"
+		"zScaleMins"		"-100.000000"
+		"xScaleMaxs"		"160.000000"
+		"yScaleMaxs"		"176.000000"
+		"zScaleMaxs"		"100.000000"
+	}
+	"end"
+	{
+		"xpos"		"8672.000000"
+		"ypos"		"4944.000000"
+		"zpos"		"-140.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-152.000000"
+		"yScaleMins"		"-152.000000"
+		"zScaleMins"		"-84.000000"
+		"xScaleMaxs"		"152.000000"
+		"yScaleMaxs"		"152.000000"
+		"zScaleMaxs"		"84.000000"
+	}
+}
