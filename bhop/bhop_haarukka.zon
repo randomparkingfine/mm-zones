@@ -1,83 +1,58 @@
-"bhop_haarukka"
+"tracks"
 {
-	"start"
+	"0"
 	{
-		"bhopleavespeed"		"290.000000"
-		"limitingspeed"		"1"
-		"xpos"		"-4864.000000"
-		"ypos"		"-256.000000"
-		"zpos"		"-240.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-240.000000"
-		"yScaleMins"		"-240.000000"
-		"zScaleMins"		"-88.000000"
-		"xScaleMaxs"		"240.000000"
-		"yScaleMaxs"		"240.000000"
-		"zScaleMaxs"		"88.000000"
-	}
-	"stage"
-	{
-		"number"		"2"
-		"xpos"		"-10912.000000"
-		"ypos"		"-5372.000000"
-		"zpos"		"2704.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-160.000000"
-		"yScaleMins"		"-132.000000"
-		"zScaleMins"		"-80.000000"
-		"xScaleMaxs"		"160.000000"
-		"yScaleMaxs"		"132.000000"
-		"zScaleMaxs"		"80.000000"
-	}
-	"stage"
-	{
-		"number"		"3"
-		"xpos"		"1376.000000"
-		"ypos"		"-4288.000000"
-		"zpos"		"-1840.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-240.000000"
-		"yScaleMins"		"-304.000000"
-		"zScaleMins"		"-80.000000"
-		"xScaleMaxs"		"240.000000"
-		"yScaleMaxs"		"304.000000"
-		"zScaleMaxs"		"80.000000"
-	}
-	"stage"
-	{
-		"number"		"4"
-		"xpos"		"1952.000000"
-		"ypos"		"-6400.000000"
-		"zpos"		"-3200.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-128.000000"
-		"yScaleMins"		"-256.000000"
-		"zScaleMins"		"-96.000000"
-		"xScaleMaxs"		"128.000000"
-		"yScaleMaxs"		"256.000000"
-		"zScaleMaxs"		"96.000000"
-	}
-	"end"
-	{
-		"xpos"		"640.000000"
-		"ypos"		"-5232.000000"
-		"zpos"		"-860.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-416.000000"
-		"yScaleMins"		"-400.000000"
-		"zScaleMins"		"-132.000000"
-		"xScaleMaxs"		"416.000000"
-		"yScaleMaxs"		"400.000000"
-		"zScaleMaxs"		"132.000000"
+		"0"
+		{
+			"zoneNum"	 "0"
+			"triggers"
+			{
+				"1"
+				{
+					"zoneNum"	 "0"
+					"type"	 "0"
+					"pointsZPos"	 "-992.0"
+					"pointsHeight"	 "264.0"
+					"points"
+					{
+						"p0"	 "224.0 -5632.0"
+						"p1"	 "1056.0 -5632.0"
+						"p2"	 "1056.0 -4832.0"
+						"p3"	 "224.0 -4832.0"
+					}
+				}
+			}
+		}
+		"1"
+		{
+			"zoneNum"	 "1"
+			"triggers"
+			{
+				"1"
+				{
+					"zoneNum"	 "1"
+					"type"	 "1"
+					"pointsZPos"	 "-328.0"
+					"pointsHeight"	 "176.0"
+					"zoneProps"
+					{
+						"properties"
+						{
+							"speed_limit"	 "350.0000"
+							"limiting_speed"	 "1"
+							"start_on_jump"	 "1"
+							"speed_limit_type"	 "0"
+						}
+					}
+					"points"
+					{
+						"p0"	 "-5104.0 -496.0"
+						"p1"	 "-4624.0 -496.0"
+						"p2"	 "-4624.0 -16.0"
+						"p3"	 "-5104.0 -16.0"
+					}
+				}
+			}
+		}
 	}
 }

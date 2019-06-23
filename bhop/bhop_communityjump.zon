@@ -1,147 +1,58 @@
-"bhop_communityjump"
+"tracks"
 {
-	"start"
+	"0"
 	{
-		"bhopleavespeed"		"290.000000"
-		"limitingspeed"		"1"
-		"xpos"		"-128.000000"
-		"ypos"		"512.000000"
-		"zpos"		"-400.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-384.000000"
-		"yScaleMins"		"-192.000000"
-		"zScaleMins"		"-112.000000"
-		"xScaleMaxs"		"384.000000"
-		"yScaleMaxs"		"192.000000"
-		"zScaleMaxs"		"112.000000"
-	}
-	"stage"
-	{
-		"number"		"2"
-		"xpos"		"-12544.000000"
-		"ypos"		"-4544.000000"
-		"zpos"		"5352.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-96.000000"
-		"yScaleMins"		"-192.000000"
-		"zScaleMins"		"-72.000000"
-		"xScaleMaxs"		"96.000000"
-		"yScaleMaxs"		"192.000000"
-		"zScaleMaxs"		"72.000000"
-	}
-	"stage"
-	{
-		"number"		"3"
-		"xpos"		"14708.000000"
-		"ypos"		"7800.000000"
-		"zpos"		"-8628.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-92.000000"
-		"yScaleMins"		"-144.000000"
-		"zScaleMins"		"-76.000000"
-		"xScaleMaxs"		"92.000000"
-		"yScaleMaxs"		"144.000000"
-		"zScaleMaxs"		"76.000000"
-	}
-	"stage"
-	{
-		"number"		"4"
-		"xpos"		"-14218.500000"
-		"ypos"		"1388.000000"
-		"zpos"		"4438.500000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-69.500000"
-		"yScaleMins"		"-33.000000"
-		"zScaleMins"		"-54.500000"
-		"xScaleMaxs"		"69.500000"
-		"yScaleMaxs"		"33.000000"
-		"zScaleMaxs"		"54.500000"
-	}
-	"stage"
-	{
-		"number"		"5"
-		"xpos"		"-8000.000000"
-		"ypos"		"-14816.000000"
-		"zpos"		"2751.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-256.000000"
-		"yScaleMins"		"-160.000000"
-		"zScaleMins"		"-127.000000"
-		"xScaleMaxs"		"256.000000"
-		"yScaleMaxs"		"160.000000"
-		"zScaleMaxs"		"127.000000"
-	}
-	"stage"
-	{
-		"number"		"6"
-		"xpos"		"-1344.000000"
-		"ypos"		"10000.000000"
-		"zpos"		"5751.500000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-114.000000"
-		"yScaleMins"		"-114.000000"
-		"zScaleMins"		"-71.500000"
-		"xScaleMaxs"		"114.000000"
-		"yScaleMaxs"		"114.000000"
-		"zScaleMaxs"		"71.500000"
-	}
-	"stage"
-	{
-		"number"		"7"
-		"xpos"		"4544.000000"
-		"ypos"		"-14624.000000"
-		"zpos"		"1680.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-224.000000"
-		"yScaleMins"		"-224.000000"
-		"zScaleMins"		"-64.000000"
-		"xScaleMaxs"		"224.000000"
-		"yScaleMaxs"		"224.000000"
-		"zScaleMaxs"		"64.000000"
-	}
-	"stage"
-	{
-		"number"		"8"
-		"xpos"		"-11008.000000"
-		"ypos"		"9612.500000"
-		"zpos"		"-5902.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-128.000000"
-		"yScaleMins"		"-83.500000"
-		"zScaleMins"		"-66.000000"
-		"xScaleMaxs"		"128.000000"
-		"yScaleMaxs"		"83.500000"
-		"zScaleMaxs"		"66.000000"
-	}
-	"end"
-	{
-		"xpos"		"8240.000000"
-		"ypos"		"4370.000000"
-		"zpos"		"436.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-122.000000"
-		"yScaleMins"		"-171.000000"
-		"zScaleMins"		"-52.000000"
-		"xScaleMaxs"		"122.000000"
-		"yScaleMaxs"		"171.000000"
-		"zScaleMaxs"		"52.000000"
+		"0"
+		{
+			"zoneNum"	 "0"
+			"triggers"
+			{
+				"1"
+				{
+					"zoneNum"	 "0"
+					"type"	 "0"
+					"pointsZPos"	 "384.0"
+					"pointsHeight"	 "104.0"
+					"points"
+					{
+						"p0"	 "8118.0 4199.0"
+						"p1"	 "8362.0 4199.0"
+						"p2"	 "8362.0 4541.0"
+						"p3"	 "8118.0 4541.0"
+					}
+				}
+			}
+		}
+		"1"
+		{
+			"zoneNum"	 "1"
+			"triggers"
+			{
+				"1"
+				{
+					"zoneNum"	 "1"
+					"type"	 "1"
+					"pointsZPos"	 "-512.0"
+					"pointsHeight"	 "224.0"
+					"zoneProps"
+					{
+						"properties"
+						{
+							"speed_limit"	 "350.0000"
+							"limiting_speed"	 "1"
+							"start_on_jump"	 "1"
+							"speed_limit_type"	 "0"
+						}
+					}
+					"points"
+					{
+						"p0"	 "-512.0 320.0"
+						"p1"	 "256.0 320.0"
+						"p2"	 "256.0 704.0"
+						"p3"	 "-512.0 704.0"
+					}
+				}
+			}
+		}
 	}
 }

@@ -1,147 +1,58 @@
-"bhop_jegg"
+"tracks"
 {
-	"start"
+	"0"
 	{
-		"bhopleavespeed"		"290.000000"
-		"limitingspeed"		"1"
-		"xpos"		"-928.000000"
-		"ypos"		"768.000000"
-		"zpos"		"-928.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-96.000000"
-		"yScaleMins"		"-256.000000"
-		"zScaleMins"		"-64.000000"
-		"xScaleMaxs"		"96.000000"
-		"yScaleMaxs"		"256.000000"
-		"zScaleMaxs"		"64.000000"
-	}
-	"stage"
-	{
-		"number"		"2"
-		"xpos"		"-3200.000000"
-		"ypos"		"-1312.000000"
-		"zpos"		"-5788.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-128.000000"
-		"yScaleMins"		"-224.000000"
-		"zScaleMins"		"-100.000000"
-		"xScaleMaxs"		"128.000000"
-		"yScaleMaxs"		"224.000000"
-		"zScaleMaxs"		"100.000000"
-	}
-	"stage"
-	{
-		"number"		"3"
-		"xpos"		"4096.000000"
-		"ypos"		"512.000000"
-		"zpos"		"-6028.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-48.000000"
-		"yScaleMins"		"-192.000000"
-		"zScaleMins"		"-84.000000"
-		"xScaleMaxs"		"48.000000"
-		"yScaleMaxs"		"192.000000"
-		"zScaleMaxs"		"84.000000"
-	}
-	"stage"
-	{
-		"number"		"4"
-		"xpos"		"10752.000000"
-		"ypos"		"960.000000"
-		"zpos"		"-7316.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-64.000000"
-		"yScaleMins"		"-64.000000"
-		"zScaleMins"		"-108.000000"
-		"xScaleMaxs"		"64.000000"
-		"yScaleMaxs"		"64.000000"
-		"zScaleMaxs"		"108.000000"
-	}
-	"stage"
-	{
-		"number"		"5"
-		"xpos"		"5376.000000"
-		"ypos"		"3040.000000"
-		"zpos"		"-7380.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-256.000000"
-		"yScaleMins"		"-32.000000"
-		"zScaleMins"		"-108.000000"
-		"xScaleMaxs"		"256.000000"
-		"yScaleMaxs"		"32.000000"
-		"zScaleMaxs"		"108.000000"
-	}
-	"stage"
-	{
-		"number"		"6"
-		"xpos"		"8448.000000"
-		"ypos"		"5056.000000"
-		"zpos"		"-5580.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-256.000000"
-		"yScaleMins"		"-64.000000"
-		"zScaleMins"		"-84.000000"
-		"xScaleMaxs"		"256.000000"
-		"yScaleMaxs"		"64.000000"
-		"zScaleMaxs"		"84.000000"
-	}
-	"stage"
-	{
-		"number"		"7"
-		"xpos"		"9472.000000"
-		"ypos"		"576.000000"
-		"zpos"		"-3984.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-256.000000"
-		"yScaleMins"		"-64.000000"
-		"zScaleMins"		"-80.000000"
-		"xScaleMaxs"		"256.000000"
-		"yScaleMaxs"		"64.000000"
-		"zScaleMaxs"		"80.000000"
-	}
-	"stage"
-	{
-		"number"		"8"
-		"xpos"		"6400.000000"
-		"ypos"		"7776.000000"
-		"zpos"		"-5068.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-192.000000"
-		"yScaleMins"		"-96.000000"
-		"zScaleMins"		"-84.000000"
-		"xScaleMaxs"		"192.000000"
-		"yScaleMaxs"		"96.000000"
-		"zScaleMaxs"		"84.000000"
-	}
-	"end"
-	{
-		"xpos"		"460.000000"
-		"ypos"		"5008.000000"
-		"zpos"		"-5164.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-252.000000"
-		"yScaleMins"		"-256.000000"
-		"zScaleMins"		"-140.000000"
-		"xScaleMaxs"		"252.000000"
-		"yScaleMaxs"		"256.000000"
-		"zScaleMaxs"		"140.000000"
+		"0"
+		{
+			"zoneNum"	 "0"
+			"triggers"
+			{
+				"1"
+				{
+					"zoneNum"	 "0"
+					"type"	 "0"
+					"pointsZPos"	 "-5304.0"
+					"pointsHeight"	 "280.0"
+					"points"
+					{
+						"p0"	 "208.0 4752.0"
+						"p1"	 "712.0 4752.0"
+						"p2"	 "712.0 5264.0"
+						"p3"	 "208.0 5264.0"
+					}
+				}
+			}
+		}
+		"1"
+		{
+			"zoneNum"	 "1"
+			"triggers"
+			{
+				"1"
+				{
+					"zoneNum"	 "1"
+					"type"	 "1"
+					"pointsZPos"	 "-992.0"
+					"pointsHeight"	 "128.0"
+					"zoneProps"
+					{
+						"properties"
+						{
+							"speed_limit"	 "350.0000"
+							"limiting_speed"	 "1"
+							"start_on_jump"	 "1"
+							"speed_limit_type"	 "0"
+						}
+					}
+					"points"
+					{
+						"p0"	 "-1024.0 512.0"
+						"p1"	 "-832.0 512.0"
+						"p2"	 "-832.0 1024.0"
+						"p3"	 "-1024.0 1024.0"
+					}
+				}
+			}
+		}
 	}
 }

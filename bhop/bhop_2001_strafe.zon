@@ -1,35 +1,58 @@
-"bhop_2001_strafe"
+"tracks"
 {
-	"start"
+	"0"
 	{
-		"bhopleavespeed"		"290.000000"
-		"limitingspeed"		"1"
-		"xpos"		"-248.000000"
-		"ypos"		"1124.000000"
-		"zpos"		"104.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-224.000000"
-		"yScaleMins"		"-156.000000"
-		"zScaleMins"		"-104.000000"
-		"xScaleMaxs"		"224.000000"
-		"yScaleMaxs"		"156.000000"
-		"zScaleMaxs"		"104.000000"
-	}
-	"end"
-	{
-		"xpos"		"4112.000000"
-		"ypos"		"5240.000000"
-		"zpos"		"96.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-240.000000"
-		"yScaleMins"		"-104.000000"
-		"zScaleMins"		"-96.000000"
-		"xScaleMaxs"		"240.000000"
-		"yScaleMaxs"		"104.000000"
-		"zScaleMaxs"		"96.000000"
+		"0"
+		{
+			"zoneNum"	 "0"
+			"triggers"
+			{
+				"1"
+				{
+					"zoneNum"	 "0"
+					"type"	 "0"
+					"pointsZPos"	 "0.0"
+					"pointsHeight"	 "192.0"
+					"points"
+					{
+						"p0"	 "3872.0 5136.0"
+						"p1"	 "4352.0 5136.0"
+						"p2"	 "4352.0 5344.0"
+						"p3"	 "3872.0 5344.0"
+					}
+				}
+			}
+		}
+		"1"
+		{
+			"zoneNum"	 "1"
+			"triggers"
+			{
+				"1"
+				{
+					"zoneNum"	 "1"
+					"type"	 "1"
+					"pointsZPos"	 "0.0"
+					"pointsHeight"	 "208.0"
+					"zoneProps"
+					{
+						"properties"
+						{
+							"speed_limit"	 "350.0000"
+							"limiting_speed"	 "1"
+							"start_on_jump"	 "1"
+							"speed_limit_type"	 "0"
+						}
+					}
+					"points"
+					{
+						"p0"	 "-472.0 968.0"
+						"p1"	 "-24.0 968.0"
+						"p2"	 "-24.0 1280.0"
+						"p3"	 "-472.0 1280.0"
+					}
+				}
+			}
+		}
 	}
 }

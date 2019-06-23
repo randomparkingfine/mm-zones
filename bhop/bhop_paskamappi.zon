@@ -1,35 +1,58 @@
-"bhop_paskamappi"
+"tracks"
 {
-	"start"
+	"0"
 	{
-		"bhopleavespeed"		"290.000000"
-		"limitingspeed"		"1"
-		"xpos"		"1424.000000"
-		"ypos"		"796.000000"
-		"zpos"		"228.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-80.000000"
-		"yScaleMins"		"-100.000000"
-		"zScaleMins"		"-84.000000"
-		"xScaleMaxs"		"80.000000"
-		"yScaleMaxs"		"100.000000"
-		"zScaleMaxs"		"84.000000"
-	}
-	"end"
-	{
-		"xpos"		"-3624.000000"
-		"ypos"		"-2656.000000"
-		"zpos"		"564.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-112.000000"
-		"yScaleMins"		"-72.000000"
-		"zScaleMins"		"-76.000000"
-		"xScaleMaxs"		"112.000000"
-		"yScaleMaxs"		"72.000000"
-		"zScaleMaxs"		"76.000000"
+		"0"
+		{
+			"zoneNum"	 "0"
+			"triggers"
+			{
+				"1"
+				{
+					"zoneNum"	 "0"
+					"type"	 "0"
+					"pointsZPos"	 "488.0"
+					"pointsHeight"	 "152.0"
+					"points"
+					{
+						"p0"	 "-3736.0 -2728.0"
+						"p1"	 "-3512.0 -2728.0"
+						"p2"	 "-3512.0 -2584.0"
+						"p3"	 "-3736.0 -2584.0"
+					}
+				}
+			}
+		}
+		"1"
+		{
+			"zoneNum"	 "1"
+			"triggers"
+			{
+				"1"
+				{
+					"zoneNum"	 "1"
+					"type"	 "1"
+					"pointsZPos"	 "144.0"
+					"pointsHeight"	 "168.0"
+					"zoneProps"
+					{
+						"properties"
+						{
+							"speed_limit"	 "350.0000"
+							"limiting_speed"	 "1"
+							"start_on_jump"	 "1"
+							"speed_limit_type"	 "0"
+						}
+					}
+					"points"
+					{
+						"p0"	 "1344.0 696.0"
+						"p1"	 "1504.0 696.0"
+						"p2"	 "1504.0 896.0"
+						"p3"	 "1344.0 896.0"
+					}
+				}
+			}
+		}
 	}
 }

@@ -1,67 +1,58 @@
-"bhop_nightsky"
+"tracks"
 {
-	"start"
+	"0"
 	{
-		"bhopleavespeed"		"290.000000"
-		"limitingspeed"		"1"
-		"xpos"		"512.000000"
-		"ypos"		"576.000000"
-		"zpos"		"132.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-512.000000"
-		"yScaleMins"		"-448.000000"
-		"zScaleMins"		"-68.000000"
-		"xScaleMaxs"		"512.000000"
-		"yScaleMaxs"		"448.000000"
-		"zScaleMaxs"		"68.000000"
-	}
-	"stage"
-	{
-		"number"		"2"
-		"xpos"		"4416.000000"
-		"ypos"		"544.000000"
-		"zpos"		"920.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-512.000000"
-		"yScaleMins"		"-384.000000"
-		"zScaleMins"		"-56.000000"
-		"xScaleMaxs"		"512.000000"
-		"yScaleMaxs"		"384.000000"
-		"zScaleMaxs"		"56.000000"
-	}
-	"stage"
-	{
-		"number"		"3"
-		"xpos"		"-3552.000000"
-		"ypos"		"528.000000"
-		"zpos"		"-1312.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-512.000000"
-		"yScaleMins"		"-448.000000"
-		"zScaleMins"		"-64.000000"
-		"xScaleMaxs"		"512.000000"
-		"yScaleMaxs"		"448.000000"
-		"zScaleMaxs"		"64.000000"
-	}
-	"end"
-	{
-		"xpos"		"-3552.000000"
-		"ypos"		"4744.000000"
-		"zpos"		"-1312.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-512.000000"
-		"yScaleMins"		"-200.000000"
-		"zScaleMins"		"-64.000000"
-		"xScaleMaxs"		"512.000000"
-		"yScaleMaxs"		"200.000000"
-		"zScaleMaxs"		"64.000000"
+		"0"
+		{
+			"zoneNum"	 "0"
+			"triggers"
+			{
+				"1"
+				{
+					"zoneNum"	 "0"
+					"type"	 "0"
+					"pointsZPos"	 "-1376.0"
+					"pointsHeight"	 "128.0"
+					"points"
+					{
+						"p0"	 "-4064.0 4544.0"
+						"p1"	 "-3040.0 4544.0"
+						"p2"	 "-3040.0 4944.0"
+						"p3"	 "-4064.0 4944.0"
+					}
+				}
+			}
+		}
+		"1"
+		{
+			"zoneNum"	 "1"
+			"triggers"
+			{
+				"1"
+				{
+					"zoneNum"	 "1"
+					"type"	 "1"
+					"pointsZPos"	 "64.0"
+					"pointsHeight"	 "136.0"
+					"zoneProps"
+					{
+						"properties"
+						{
+							"speed_limit"	 "350.0000"
+							"limiting_speed"	 "1"
+							"start_on_jump"	 "1"
+							"speed_limit_type"	 "0"
+						}
+					}
+					"points"
+					{
+						"p0"	 "0.0 128.0"
+						"p1"	 "1024.0 128.0"
+						"p2"	 "1024.0 1024.0"
+						"p3"	 "0.0 1024.0"
+					}
+				}
+			}
+		}
 	}
 }

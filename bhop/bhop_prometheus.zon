@@ -1,115 +1,58 @@
-"bhop_prometheus"
+"tracks"
 {
-	"start"
+	"0"
 	{
-		"bhopleavespeed"		"290.000000"
-		"limitingspeed"		"1"
-		"xpos"		"-38.000000"
-		"ypos"		"-64.000000"
-		"zpos"		"653.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-160.000000"
-		"yScaleMins"		"-304.000000"
-		"zScaleMins"		"-99.000000"
-		"xScaleMaxs"		"160.000000"
-		"yScaleMaxs"		"304.000000"
-		"zScaleMaxs"		"99.000000"
-	}
-	"stage"
-	{
-		"number"		"2"
-		"xpos"		"2919.000000"
-		"ypos"		"6273.000000"
-		"zpos"		"519.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-143.000000"
-		"yScaleMins"		"-335.000000"
-		"zScaleMins"		"-105.000000"
-		"xScaleMaxs"		"143.000000"
-		"yScaleMaxs"		"335.000000"
-		"zScaleMaxs"		"105.000000"
-	}
-	"stage"
-	{
-		"number"		"3"
-		"xpos"		"-9077.000000"
-		"ypos"		"-8150.000000"
-		"zpos"		"10112.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-223.000000"
-		"yScaleMins"		"-448.000000"
-		"zScaleMins"		"-192.000000"
-		"xScaleMaxs"		"223.000000"
-		"yScaleMaxs"		"448.000000"
-		"zScaleMaxs"		"192.000000"
-	}
-	"stage"
-	{
-		"number"		"4"
-		"xpos"		"11453.000000"
-		"ypos"		"7851.000000"
-		"zpos"		"-7908.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-141.000000"
-		"yScaleMins"		"-237.000000"
-		"zScaleMins"		"-88.000000"
-		"xScaleMaxs"		"141.000000"
-		"yScaleMaxs"		"237.000000"
-		"zScaleMaxs"		"88.000000"
-	}
-	"stage"
-	{
-		"number"		"5"
-		"xpos"		"8081.000000"
-		"ypos"		"-61.000000"
-		"zpos"		"-12028.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-497.000000"
-		"yScaleMins"		"-495.000000"
-		"zScaleMins"		"-342.000000"
-		"xScaleMaxs"		"497.000000"
-		"yScaleMaxs"		"495.000000"
-		"zScaleMaxs"		"342.000000"
-	}
-	"stage"
-	{
-		"number"		"6"
-		"xpos"		"-5038.000000"
-		"ypos"		"4788.000000"
-		"zpos"		"-11656.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-250.000000"
-		"yScaleMins"		"-276.000000"
-		"zScaleMins"		"-122.000000"
-		"xScaleMaxs"		"250.000000"
-		"yScaleMaxs"		"276.000000"
-		"zScaleMaxs"		"122.000000"
-	}
-	"end"
-	{
-		"xpos"		"-2181.000000"
-		"ypos"		"10782.000000"
-		"zpos"		"-9820.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-179.000000"
-		"yScaleMins"		"-374.000000"
-		"zScaleMins"		"-300.000000"
-		"xScaleMaxs"		"179.000000"
-		"yScaleMaxs"		"374.000000"
-		"zScaleMaxs"		"300.000000"
+		"0"
+		{
+			"zoneNum"	 "0"
+			"triggers"
+			{
+				"1"
+				{
+					"zoneNum"	 "0"
+					"type"	 "0"
+					"pointsZPos"	 "-10120.0"
+					"pointsHeight"	 "600.0"
+					"points"
+					{
+						"p0"	 "-2360.0 10408.0"
+						"p1"	 "-2002.0 10408.0"
+						"p2"	 "-2002.0 11156.0"
+						"p3"	 "-2360.0 11156.0"
+					}
+				}
+			}
+		}
+		"1"
+		{
+			"zoneNum"	 "1"
+			"triggers"
+			{
+				"1"
+				{
+					"zoneNum"	 "1"
+					"type"	 "1"
+					"pointsZPos"	 "554.0"
+					"pointsHeight"	 "198.0"
+					"zoneProps"
+					{
+						"properties"
+						{
+							"speed_limit"	 "350.0000"
+							"limiting_speed"	 "1"
+							"start_on_jump"	 "1"
+							"speed_limit_type"	 "0"
+						}
+					}
+					"points"
+					{
+						"p0"	 "-198.0 -368.0"
+						"p1"	 "122.0 -368.0"
+						"p2"	 "122.0 240.0"
+						"p3"	 "-198.0 240.0"
+					}
+				}
+			}
+		}
 	}
 }
