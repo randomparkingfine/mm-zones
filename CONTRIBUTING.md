@@ -4,26 +4,30 @@
 2. Email: alerah@protonmail.com (_just email the file(s) to me_)
 3. Discord: shockrah#2647
 
-Any and all types of maps are welcome of course, if for some reason people want the maps categorized then it can be ararnged easily.
+> What do I count as a stage or checkpoint?
 
-:\^)
+To be honest it should feel obvious by playing the map that two areas are distinct from each other so its sorta up to you _but_, if possible try asking the map maker.
 
-> What's a stage and what isn't?
-
-If the mapper of a map in question has any say about it go with whatever they say.
-That being said there are thousands of maps and without theory-jerking here are some go to principles I use in no particular order:
+That being said there are thousands of maps and without theory-jerking here are some go to principles I use in no particular order(with bhop in mind):
 
 * Teleports from one area to another
 
-* Labeled stages. 
+* Labeled areas
 
-	Tons of maps are """linear""" in the surf but also in that there are no real teleports from one stage to another like `bhop_fps_max_sr`.
+	Some maps will be """linear""" but have some markings on them to say something like "_this room/area/whatever is different from the last room/area/whatever_"[`bhop_fps_max_sr`]
 
-	Maps like this also have a stage number written on the ground so I try to setup the stage boundary in such a way that it's basically impossible to _not_ hit the stage trigger.
+	Just try to make sure that the stage/checkpoint zones themselves are 100% unavoidable if possible.
+	Also don't be afraid to make them large if you need to.
 
 * Art changes
 
 	If there's a room color change or _drastic_ art style change from one room to another.
 
-	These are more picky to judge because my only caveat with this is there has to be some kind of really obvious door or somthing seperating the two rooms.
+	`bhop_hopper` The first stage is super gray while the second is split into green and red sections.
+	In that case you have two stages but the transition from green to red is more of a checkpoint because of how the fail triggers set you back and how the two areas are completely connnected[1].
 
+* A note about checkpoints:
+
+	If you find that you are spamming them a lot then finish off the zones and send them to someone else to test. In general if it feels right then it's probably fine otherwise consider being more conservative with the zones.
+
+[1] Completely connected: two areas are completely connected if there is no _teleporter_ seperating them and physically attached in the hammer grid.
