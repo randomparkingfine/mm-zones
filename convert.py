@@ -102,10 +102,10 @@ def walk_files(directory):
 			if file_.endswith(".zon"):
 				convertFile(f'{directory}/{file_}', 'end', '0', new_kv, old_kv)
 				convertFile(f'{directory}/{file_}', 'start', '1', new_kv, old_kv)
-				new.write(f'{directory}/{file_}')
+				new_kv.write(f'{directory}/{file_}')
 				print(f"good {file_}")
 		except Exception as e:
-			print(f'failed {file_}')
+			print(f'failed {file_}\nError: {e}')
 
 if __name__ == '__main__':
 	if len(sys.argv) == 1:
