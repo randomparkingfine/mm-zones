@@ -1,3 +1,5 @@
+# This trash script is to convert a whole directory of zone files from old formats to the new one
+
 import os, sys
 from valve_keyvalues_python.keyvalues import KeyValues
 
@@ -106,7 +108,9 @@ def walk_files(directory):
 				print(f"good {file_}")
 		except Exception as e:
 			print(f'failed {file_}\nError: {e}')
+			
 
+# TODO: be bothered to add some command line switches or something idk it'll make no difference
 if __name__ == '__main__':
 	if len(sys.argv) == 1:
 		print('No target')
