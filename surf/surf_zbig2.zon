@@ -1,131 +1,58 @@
-"surf_zbig2"
+"tracks"
 {
-	"start"
+	"0"
 	{
-		"bhopleavespeed"		"250.000000"
-		"limitingspeed"		"1"
-		"xpos"		"-5296.000000"
-		"ypos"		"10080.000000"
-		"zpos"		"12860.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-304.000000"
-		"yScaleMins"		"-680.000000"
-		"zScaleMins"		"-100.000000"
-		"xScaleMaxs"		"304.000000"
-		"yScaleMaxs"		"680.000000"
-		"zScaleMaxs"		"100.000000"
-	}
-	"stage"
-	{
-		"number"		"2"
-		"xpos"		"-5412.000000"
-		"ypos"		"14280.000000"
-		"zpos"		"12568.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-284.000000"
-		"yScaleMins"		"-600.000000"
-		"zScaleMins"		"-88.000000"
-		"xScaleMaxs"		"284.000000"
-		"yScaleMaxs"		"600.000000"
-		"zScaleMaxs"		"88.000000"
-	}
-	"stage"
-	{
-		"number"		"3"
-		"xpos"		"8160.000000"
-		"ypos"		"5352.000000"
-		"zpos"		"10228.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-256.000000"
-		"yScaleMins"		"-744.000000"
-		"zScaleMins"		"-76.000000"
-		"xScaleMaxs"		"256.000000"
-		"yScaleMaxs"		"744.000000"
-		"zScaleMaxs"		"76.000000"
-	}
-	"stage"
-	{
-		"number"		"4"
-		"xpos"		"-5524.000000"
-		"ypos"		"248.000000"
-		"zpos"		"12768.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-284.000000"
-		"yScaleMins"		"-600.000000"
-		"zScaleMins"		"-64.000000"
-		"xScaleMaxs"		"284.000000"
-		"yScaleMaxs"		"600.000000"
-		"zScaleMaxs"		"64.000000"
-	}
-	"stage"
-	{
-		"number"		"5"
-		"xpos"		"-14132.000000"
-		"ypos"		"-5680.000000"
-		"zpos"		"14352.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-284.000000"
-		"yScaleMins"		"-600.000000"
-		"zScaleMins"		"-48.000000"
-		"xScaleMaxs"		"284.000000"
-		"yScaleMaxs"		"600.000000"
-		"zScaleMaxs"		"48.000000"
-	}
-	"stage"
-	{
-		"number"		"6"
-		"xpos"		"-15072.000000"
-		"ypos"		"-11852.000000"
-		"zpos"		"11652.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-424.000000"
-		"yScaleMins"		"-388.000000"
-		"zScaleMins"		"-68.000000"
-		"xScaleMaxs"		"424.000000"
-		"yScaleMaxs"		"388.000000"
-		"zScaleMaxs"		"68.000000"
-	}
-	"stage"
-	{
-		"number"		"7"
-		"xpos"		"9200.000000"
-		"ypos"		"-1804.000000"
-		"zpos"		"12400.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-328.000000"
-		"yScaleMins"		"-324.000000"
-		"zScaleMins"		"-80.000000"
-		"xScaleMaxs"		"328.000000"
-		"yScaleMaxs"		"324.000000"
-		"zScaleMaxs"		"80.000000"
-	}
-	"end"
-	{
-		"xpos"		"-10616.000000"
-		"ypos"		"-3876.000000"
-		"zpos"		"-13564.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-136.000000"
-		"yScaleMins"		"-388.000000"
-		"zScaleMins"		"-108.000000"
-		"xScaleMaxs"		"136.000000"
-		"yScaleMaxs"		"388.000000"
-		"zScaleMaxs"		"108.000000"
+		"0"
+		{
+			"zoneNum"	 "0"
+			"triggers"
+			{
+				"1"
+				{
+					"zoneNum"	 "0"
+					"type"	 "0"
+					"pointsZPos"	 "-13672.0"
+					"pointsHeight"	 "216.0"
+					"points"
+					{
+						"p0"	 "-10752.0 -4264.0"
+						"p1"	 "-10480.0 -4264.0"
+						"p2"	 "-10480.0 -3488.0"
+						"p3"	 "-10752.0 -3488.0"
+					}
+				}
+			}
+		}
+		"1"
+		{
+			"zoneNum"	 "1"
+			"triggers"
+			{
+				"1"
+				{
+					"zoneNum"	 "1"
+					"type"	 "1"
+					"pointsZPos"	 "12760.0"
+					"pointsHeight"	 "200.0"
+					"zoneProps"
+					{
+						"properties"
+						{
+							"speed_limit"	 "350.0000"
+							"limiting_speed"	 "1"
+							"start_on_jump"	 "1"
+							"speed_limit_type"	 "0"
+						}
+					}
+					"points"
+					{
+						"p0"	 "-5600.0 9400.0"
+						"p1"	 "-4992.0 9400.0"
+						"p2"	 "-4992.0 10760.0"
+						"p3"	 "-5600.0 10760.0"
+					}
+				}
+			}
+		}
 	}
 }

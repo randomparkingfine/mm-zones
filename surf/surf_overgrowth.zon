@@ -1,99 +1,58 @@
-"surf_overgrowth"
+"tracks"
 {
-	"start"
+	"0"
 	{
-		"bhopleavespeed"		"250.000000"
-		"limitingspeed"		"1"
-		"xpos"		"6708.000000"
-		"ypos"		"-13396.000000"
-		"zpos"		"15496.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-268.000000"
-		"yScaleMins"		"-756.000000"
-		"zScaleMins"		"-72.000000"
-		"xScaleMaxs"		"268.000000"
-		"yScaleMaxs"		"756.000000"
-		"zScaleMaxs"		"72.000000"
-	}
-	"stage"
-	{
-		"number"		"2"
-		"xpos"		"3476.000000"
-		"ypos"		"11304.000000"
-		"zpos"		"15712.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-396.000000"
-		"yScaleMins"		"-248.000000"
-		"zScaleMins"		"-128.000000"
-		"xScaleMaxs"		"396.000000"
-		"yScaleMaxs"		"248.000000"
-		"zScaleMaxs"		"128.000000"
-	}
-	"stage"
-	{
-		"number"		"3"
-		"xpos"		"5984.000000"
-		"ypos"		"92.000000"
-		"zpos"		"-2136.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-192.000000"
-		"yScaleMins"		"-396.000000"
-		"zScaleMins"		"-72.000000"
-		"xScaleMaxs"		"192.000000"
-		"yScaleMaxs"		"396.000000"
-		"zScaleMaxs"		"72.000000"
-	}
-	"stage"
-	{
-		"number"		"4"
-		"xpos"		"-12924.000000"
-		"ypos"		"-13920.000000"
-		"zpos"		"13976.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-540.000000"
-		"yScaleMins"		"-256.000000"
-		"zScaleMins"		"-152.000000"
-		"xScaleMaxs"		"540.000000"
-		"yScaleMaxs"		"256.000000"
-		"zScaleMaxs"		"152.000000"
-	}
-	"stage"
-	{
-		"number"		"5"
-		"xpos"		"11900.000000"
-		"ypos"		"6820.000000"
-		"zpos"		"15652.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-604.000000"
-		"yScaleMins"		"-164.000000"
-		"zScaleMins"		"-164.000000"
-		"xScaleMaxs"		"604.000000"
-		"yScaleMaxs"		"164.000000"
-		"zScaleMaxs"		"164.000000"
-	}
-	"end"
-	{
-		"xpos"		"-6720.000000"
-		"ypos"		"4192.000000"
-		"zpos"		"1916.000000"
-		"xRot"		"0.000000"
-		"yRot"		"0.000000"
-		"zRot"		"0.000000"
-		"xScaleMins"		"-288.000000"
-		"yScaleMins"		"-288.000000"
-		"zScaleMins"		"-124.000000"
-		"xScaleMaxs"		"288.000000"
-		"yScaleMaxs"		"288.000000"
-		"zScaleMaxs"		"124.000000"
+		"0"
+		{
+			"zoneNum"	 "0"
+			"triggers"
+			{
+				"1"
+				{
+					"zoneNum"	 "0"
+					"type"	 "0"
+					"pointsZPos"	 "1792.0"
+					"pointsHeight"	 "248.0"
+					"points"
+					{
+						"p0"	 "-7008.0 3904.0"
+						"p1"	 "-6432.0 3904.0"
+						"p2"	 "-6432.0 4480.0"
+						"p3"	 "-7008.0 4480.0"
+					}
+				}
+			}
+		}
+		"1"
+		{
+			"zoneNum"	 "1"
+			"triggers"
+			{
+				"1"
+				{
+					"zoneNum"	 "1"
+					"type"	 "1"
+					"pointsZPos"	 "15424.0"
+					"pointsHeight"	 "144.0"
+					"zoneProps"
+					{
+						"properties"
+						{
+							"speed_limit"	 "350.0000"
+							"limiting_speed"	 "1"
+							"start_on_jump"	 "1"
+							"speed_limit_type"	 "0"
+						}
+					}
+					"points"
+					{
+						"p0"	 "6440.0 -14152.0"
+						"p1"	 "6976.0 -14152.0"
+						"p2"	 "6976.0 -12640.0"
+						"p3"	 "6440.0 -12640.0"
+					}
+				}
+			}
+		}
 	}
 }
