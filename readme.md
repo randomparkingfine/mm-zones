@@ -6,7 +6,7 @@
 
 ## Installing
 
-Take the all the zone files themselves and paste them into: 
+Take the all the zone files themselves from the zip's `bhop` or `surf` folder and paste them into: 
 
 ```
 \Path\To\SteamLibrary\steamapps\common\Momentum Mod\momentum\maps
