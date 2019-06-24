@@ -1,10 +1,12 @@
-# Momentum-Mod Zones
+# [Download - BHOP](https://gitlab.com/shockrahwow/mm-zones/-/archive/master/mm-zones-master.zip?path=bhop)
 
-__Note__: Start zones are fixed so the exit speed is set to `290.0` velocity.
+# [Download - SURF](https://gitlab.com/shockrahwow/mm-zones/-/archive/master/mm-zones-master.zip?path=surf)
+
+# Momentum-Mod Zones
 
 ## Installing
 
-I've split surf and bhop maps but just take the `.zon` files from which ever (_or both_) and drop them in:
+Take the all the zone files themselves and paste them into: 
 
 ```
 \Path\To\SteamLibrary\steamapps\common\Momentum Mod\momentum\maps
@@ -14,8 +16,4 @@ I've split surf and bhop maps but just take the `.zon` files from which ever (_o
 
 Check the [contributing guide](https://gitlab.com/shockrahwow/mm-zones/blob/master/CONTRIBUTING.md) for info on that.
 :\^)
-
-I've also provided a zoning config file here which should make it easier to zone maps and get back to playing. It should leave movement binds alone so you can do everything like normal. 
-
-
 
