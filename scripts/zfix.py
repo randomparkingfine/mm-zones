@@ -1,3 +1,5 @@
+# Changes start zone speed to a standard 290 u/s instead of 250 u/s
+# NOTE: This script best used for patches below 0.8 
 import os,sys
 def start_Fix(file_Name):
     newLine = "		\"bhopleavespeed\"		\"290.000000\"\n"
